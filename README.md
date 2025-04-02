@@ -26,3 +26,7 @@ The following visualizations are included in the report to provide insights into
 1. **Filters**: Use the slicers or filters available at the top of the report to analyze data by specific time periods.
 2. **Interactions**: You can interact with the visuals by clicking on data points, which will filter other visuals accordingly.
 3. **Export Data**: Export the data used for the visuals to Excel or CSV using the "Export Data" option in Power BI.
+
+
+If you have any questions, suggestions, or just want to say hello, you can reach out to us.
+We would love to hear from you!
