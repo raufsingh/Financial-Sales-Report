@@ -1,7 +1,9 @@
 ## Power BI Report: Financial Sales Data
 # Overview
 This Power BI report provides insights into financial sales data, enabling the visualization of key performance indicators (KPIs) and trends over time. 
+
 The report consists of two main tables: Financials and Calendar, and has been cleaned and transformed using Power Query to ensure data consistency and accuracy.
+
 The key visualizations in the report help analyze sales, profit, and performance by various dimensions such as product, segment, country, and date.
 
 # Preview
